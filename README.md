@@ -2,6 +2,8 @@
 
 We have Join Us button, once you click it, it will unfold the page and show up the sign-up form page.
 
+
+
 [animation funciton](https://www.w3schools.com/cssref/func_cubic-bezier.php#:~:text=A%20Cubic%20Bezier%20curve%20is,time%20and%20the%20final%20state.)
 
 
